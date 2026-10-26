@@ -39,3 +39,7 @@ Los informes de la carpeta `ejemplos/` proceden de [microsoft/powerbi-desktop-sa
 ## Contacto
 
 Linda Cabrera Orellana · [lindateachtech.netlify.app](https://lindateachtech.netlify.app) · [GitHub](https://github.com/lindateachtech) · [LinkedIn](https://linkedin.com/in/lindatech)
+
+## Licencia
+
+El material de este taller se comparte bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Puedes usarlo y adaptarlo citando la fuente.
