@@ -23,6 +23,11 @@ Necesitas una cuenta de GitHub, Git para Windows, Visual Studio Code y Power BI 
 - [Pro Git, libro en español](https://git-scm.com/book/es/v2)
 - [Simulador del flujo de control de versiones](https://lindateachtech.netlify.app/blogs/simulador-flujo-control-de-versiones/)
 
+
+## Taller
+[![Grabación del taller en YouTube](https://img.youtube.com/vi/Y_mM2cdfwcs/hqdefault.jpg)](https://www.youtube.com/watch?v=Y_mM2cdfwcs)
+
+
 ## Licencias y créditos
 
 Los informes de la carpeta `ejemplos/` proceden de [microsoft/powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples), con licencia MIT, © Microsoft Corporation. La licencia está en [ejemplos/LICENSE](ejemplos/LICENSE).
