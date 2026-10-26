@@ -4,11 +4,15 @@ Material del taller práctico de la BI Week de la Sociedad Ecuatoriana de Estad�
 
 En el taller aprendemos a guardar un informe de Power BI como proyecto (.pbip) y a versionarlo con Git, GitHub y VS Code: commits, ramas, pull requests y trabajo en equipo.
 
+<img src="taller_git+powerbi.png" alt="Portada del taller" width="900">
+
+
 ## Qué hay en este repositorio
 
 - [guia-instalacion.md](guia-instalacion.md): qué instalar antes del taller.
 - [comandos-git-taller.md](comandos-git-taller.md): Todos los comandos de Git y los prompts para Claude Code que utilizamos en Taller.
 - [ejemplos/](ejemplos/): informes de ejemplo de Power BI para practicar.
+- [slides](slides.pdf): slides utilizadas en el Taller.
 
 ## Antes de empezar
 
